@@ -9,7 +9,7 @@ Desenvolvimento da análise contábil e financeira de uma empresa enquadrada no 
 ### 🖥️ Apresentação do Projeto
 O projeto completo com slides, planilhas e gráficos explicativos está disponível no Prezi:
 
-🔗 **[Clique aqui para acessar a apresentação no Prezi - EM BREVE](COLE_O_LINK_DO_SEU_PREZI_AQUI)**
+🔗 **[Clique aqui para acessar a apresentação no Prezi - EM BREVE]([COLE_O_LINK_DO_SEU_PREZI_AQUI](https://prezi.com/p/5al9gi6kqsrm/fenix-contabilpisenact12025/?present=1))**
 
 ---
 
